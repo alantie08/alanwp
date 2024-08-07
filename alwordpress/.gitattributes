@@ -1,0 +1,4 @@
+*.wpress filter=lfs diff=lfs merge=lfs -text
+*.daf filter=lfs diff=lfs merge=lfs -text
+wp-content/backups-dup-lite/20240806_myecom_dc2ea659e49685205531_20240806105617_archive.daf filter=lfs diff=lfs merge=lfs -text
+wp-content/ai1wm-backups/localhost-alwordpress-20240806-104514-mbplib.wpress filter=lfs diff=lfs merge=lfs -text
